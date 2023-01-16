@@ -1,2 +1,3 @@
 # movie_recommendation
-Movie recommendation with various methods
+Movie recommendation with various algorithms
+
